@@ -10,22 +10,22 @@ public class ToysList {
         AddToys toy1 = new AddToys();
         toy1.id = 1;
         toy1.toyName = "Кукла Барби";
-        toy1.quantity = 5;
+        toy1.quantity = 0;
 
         AddToys toy2 = new AddToys();
         toy2.id = 2;
         toy2.toyName = "Грузовик";
-        toy2.quantity = 6;
+        toy2.quantity = 7;
 
         AddToys toy3 = new AddToys();
         toy3.id = 3;
         toy3.toyName = "Робот";
-        toy3.quantity = 3;
+        toy3.quantity = 6;
 
         AddToys toy4 = new AddToys();
         toy4.id = 4;
         toy4.toyName = "Плюшевый мишка";
-        toy4.quantity = 8;
+        toy4.quantity = 5;
 
         AddToys toy5 = new AddToys();
         toy5.id = 5;
@@ -33,7 +33,7 @@ public class ToysList {
         toy5.quantity = 6;
 
         AddToys toy6 = new AddToys();
-        toy6.id = 1;
+        toy6.id = 6;
         toy6.toyName = "Мяч";
         toy6.quantity = 15;
         
